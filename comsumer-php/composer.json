@@ -1,0 +1,12 @@
+{
+    "name": "faridyusof727/runcloud_assessment",
+    "authors": [
+        {
+            "name": "Farid Yusof",
+            "email": "faridyusof727@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.9.0"
+    }
+}

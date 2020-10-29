@@ -1,0 +1,22 @@
+﻿{
+  "profiles": {
+    "StorageInfo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "WSL 2 : Debian": {
+    "commandName": "WSL2",
+    "distributionName": "Debian"
+  },
+  "WSL 2 : Ubuntu 18.04": {
+    "commandName": "WSL2",
+    "distributionName": "Ubuntu-18.04"
+  },
+  "WSL 2 : Ubuntu 20.04": {
+    "commandName": "WSL2",
+    "distributionName": "Ubuntu-20.04"
+  }
+}
